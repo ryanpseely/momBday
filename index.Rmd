@@ -1,9 +1,15 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Happy Birthday Mom"
+author: "Ryan Seely"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Happy 57th Birthday Mom!
+
+**Mom, happy freaking 57th birthday!** I love you very much, and I wanted to put this together for you as a token of my immense appreciation for you. You can navigate through the website by clicking through the tabs on the left, and you can also click the arrow on the right hand side of the page to go forward and the arrow on the left hand side of the page to go back.
+
+I thought it would be special to go through some memories and pictures with you. Here we go!
+
+<img src="firstpage.jpg" style="border: 1px solid black; border-radius: 8px; box-shadow: 2px 2px 6px #888; max-width: 100%;" alt="Fam!">
 
